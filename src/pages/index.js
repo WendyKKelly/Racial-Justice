@@ -14,7 +14,7 @@ const IndexPage = () => (
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="https://www.videoask.com/aqzq5mki4xy4hmbfa2o5owjcmwozci0bupgsdzs0">Link to first sample video</Link> <br />
+    <Link to="/page-2">Link to first sample video</Link> <br />
     <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
   </Layout>
 )
